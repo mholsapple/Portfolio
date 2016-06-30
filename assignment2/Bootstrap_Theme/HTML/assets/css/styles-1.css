@@ -638,7 +638,7 @@ hr{
 }
 
 .chart .percent:after{
-	content:"%";
+	content:" years";
 	font-size: 70%;
 }
 
